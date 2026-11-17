@@ -1,0 +1,10 @@
+﻿# Build and temporary files
+build/
+0
+*.log
+*.aux
+*.bcf
+*.out
+*.pdf
+*.run.xml
+*.toc
